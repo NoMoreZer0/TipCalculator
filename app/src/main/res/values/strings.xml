@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="percent_string"> %1$d%% </string>
+    <string name="people_string"> split by %1$d </string>
+</resources>
